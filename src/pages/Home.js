@@ -6,6 +6,8 @@ import BookBar from '../components/BookBar/BookBar';
 import Banner from '../components/Banner/Banner';
 import { Postion } from '../styles/Shared';
 import HomeServices from '../components/HomeServices/HomeServices';
+import TopProducts from '../components/TopProducts/TopProducts';
+import Blog from '../components/Blog/Blog';
 
 const Home = () => (
   <Layout>
@@ -17,6 +19,8 @@ const Home = () => (
     <BookBar />
     <Banner />
     <HomeServices />
+    <TopProducts />
+    <Blog />
   </Layout>
 );
 

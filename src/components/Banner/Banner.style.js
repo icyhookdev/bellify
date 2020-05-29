@@ -17,7 +17,6 @@ export const BannerTitle = styled.h2`
   font-weight: 100;
   letter-spacing: 3px;
   text-transform: uppercase;
-  font-family: initial;
   margin-bottom: 3rem;
   text-align: center;
 `;

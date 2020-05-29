@@ -8,7 +8,7 @@ export const FeatureItemWrapper = styled.div`
   display: flex;
   flex-direction: column;
 `;
-export const FeatureItemTitle = styled.h3`
+export const FeatureItemTitle = styled.h4`
   font-size: 1.6rem;
   text-align: center;
   font-weight: 100;
@@ -22,6 +22,9 @@ export const FeatureItemImg = styled.img`
   object-position: center;
 `;
 export const FeatureItemText = styled.p`
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   text-align: center;
+  font-weight: 100;
+  width: 70%;
+  color: #444;
 `;

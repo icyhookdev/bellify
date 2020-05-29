@@ -8,4 +8,5 @@ export const LogoImg = styled.div`
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  margin-left: 5rem;
 `;

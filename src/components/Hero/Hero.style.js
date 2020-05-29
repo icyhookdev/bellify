@@ -18,14 +18,14 @@ export const HeroContent = styled.div`
 
 export const HeroTitle = styled.h1`
   font-size: 2.2rem;
-  font-family: initial;
+  font-family: 'Cormorant Infant';
   font-weight: 100;
   text-transform: uppercase;
   width: 100%;
   color: #fff;
   margin-bottom: 3rem;
   @media screen and (min-width: 414px) {
-    font-size: 4.4rem;
+    font-size: 4.8rem;
   }
 `;
 
